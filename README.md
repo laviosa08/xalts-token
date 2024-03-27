@@ -1,6 +1,9 @@
-Link to video explanation: https://drive.google.com/file/d/1C_bVkcOiIUtueBw0-p4T_FTqPV98hjq9/view?usp=drive_link
+**Video explanation**
 
-Answers to follow up questions:
+https://drive.google.com/file/d/1C_bVkcOiIUtueBw0-p4T_FTqPV98hjq9/view?usp=drive_link
+<br /><br />
+
+**Answer to follow up questions**
 
 1. What happens when you increase the number of wallets on the network to 1000?
 
@@ -28,9 +31,10 @@ Answers to follow up questions:
      1. Update the smart contract to allow off-chain management to update the whitelist/blacklist status.
      2. Implement functionality for the smart contract to fetch the whitelist/blacklist status from the off-chain database.
      3. Remove the functionality of iterating over wallet peers from smart contract as We will call the respective whitelist or blacklist function of smart contract from our backend.
+<br />
+<br />
 
-
-UML Diagaram: 
+**UML Diagaram**
 
 ![UML](https://github.com/laviosa08/xalts-token/assets/45847160/29bba9e0-e10c-4048-b42a-69014a8eafe2)
 

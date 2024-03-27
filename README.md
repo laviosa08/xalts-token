@@ -28,4 +28,8 @@ Answers to follow up questions:
      3. Remove the functionality of iterating over wallet peers from smart contract as We will call the respective whitelist or blacklist function of smart contract from our backend.
 
 
+UML Diagaram: 
+
+![UML](https://github.com/laviosa08/xalts-token/assets/45847160/29bba9e0-e10c-4048-b42a-69014a8eafe2)
+
    

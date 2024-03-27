@@ -1,3 +1,5 @@
+Link to video explanation: https://drive.google.com/file/d/1C_bVkcOiIUtueBw0-p4T_FTqPV98hjq9/view?usp=drive_link
+
 Answers to follow up questions:
 
 1. What happens when you increase the number of wallets on the network to 1000?
